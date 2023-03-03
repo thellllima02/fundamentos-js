@@ -21,5 +21,9 @@ console.log(numero + Number(numeroString));
 console.log(numero.toString()+ numeroString);
 
 
+//Erros 
+
+//console.error(new Error ("Deu ruim"));
+
 
 
