@@ -9,7 +9,7 @@ function imprimeTexto(texto){
 imprimeTexto("Oii");
 imprimeTexto("Pode ser chamado varias vezes ");
 
-//Tres formas de escrever funções 
+
 
 function soma (){
     return 2+2;

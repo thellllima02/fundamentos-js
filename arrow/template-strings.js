@@ -3,8 +3,6 @@ const idade = 2023-1995;
 const cidadeDeNascimento = "Brumado - BA";
 
 
-//Concatenação
-
 
 
 //Template String
