@@ -17,10 +17,11 @@ cliente.enderecos = [
 
 
 function ligaParaCliente(telefoneComercial, telefoneResidencial){
+    //TimblaidString
     console.log(`Ligando para ${telefoneComercial}`);
     console.log(`Ligando para ${telefoneResidencial}`);
 }
-
+//ligaParaCliente(cliente.telefone[0],cliente.telefone[1]) a mesma função que essa. 
 ligaParaCliente(...cliente.telefone);
 
 const emcomenda = {
